@@ -1,0 +1,2 @@
+<div id="footerbar" style="padding: 5px;""><p style="padding: 0; margin: 0; float: left; color: white; font-size: .5em;"> &copy;PACMUN 2016&nbsp; <!--Designed by Crystal Ma, Developed by Angelus McNally</p>--><p style="padding: 0; margin: 0; float: right; color: white; font-size: .5em;"><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdTqq4Og2RWhHgewhnhVeVt25eXuDAxoarITASvsyE0U-SABg/viewform">Join our mailing list!</a></b></p>
+        </div>

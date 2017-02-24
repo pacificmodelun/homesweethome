@@ -1,0 +1,179 @@
+things to keep
+
+committee bar without dropdown, with blue links
+
+<div id="resourcesbar">
+<div class="dropdown titlethin">
+  <span><a href="Resources/rop.html">Rules of Procedure</a></span>
+</div>
+<div class="dropdown titlethin">
+  <span><a href="Resources/positionpapers.html">Position Papers</a></span>
+</div>
+<div class="dropdown titlethin">
+  <span><a href="Resources/resolutions.html">Resolutions</a></span>
+</div>
+<div class="dropdown titlethin">
+  <span><a href="Resources/faqs.html">FAQs</a></span>
+</div>
+        </div>
+        
+list with regular style
+        
+        <ul>
+                <li><h2><a href="Resources/rop.html">Rules of Procedure</a></h2></li>
+                <li><h2><a href="Resources/positionpapers.html">Position Papers</a></h2></li>
+                <li><h2><a href="Resources/resolutions.html">Resolutions</a></h2></li>
+                <li><h2><a href="Resources/faqs.html">FAQs</a></h2></li>
+            </ul>
+            
+            
+form to email at server
+
+<form action="demo_form.asp">
+Email: <input type="text" name="LastName" value="Mouse"><br>
+<input type="submit" value="Submit">
+</form>
+
+basic footer bar
+
+<div id="footerbar"> <img src="Icons/pacmun%20logo%20black.jpg"> <img src="Icons/pacmun%20logo%20black.jpg"> <p style="float: right;"><a>Join Us!</a></p>
+        </div>
+        
+        rachel's old bio
+        <p>Ever since her first conference at PACMUN, Rachel has truly been enamored by the world of Model UN. She was able to witness how Model UN grants its delegates an opportunity to catch a glimpse ofto the true impact that individuals can make on the life of another. With an eternal ingrained passion to work for the welfare of all human beings alike, Rachel could not get herself out of Model UN. Being a junior at International School of Bellevue, this is her first experience as a Secretariat member. However, outside of PACMUN, you can see Rachel programming away or writing grants for her beloved Robotics team, planning events for her school as part of the Associate Student Body, getting lost in the world of music, practicing Kendo, or madly researching new genetic or psychological discoveries.  Rachel is absolutely honored to have worked on Secretariat for the PNW's finest delegates; as hard as the Secretariat and Staff worked to make PACMUN 2016 an even better conference than last year (and that is pretty hard to do), Rachel full-heartedly hopes that all the delegates are as ecstatic as she is, for PACMUN 2016!</p>
+        
+old footer bar
+
+<div id="footerbar"> <img src="pacmun%20logo%20black.jpg"> <img src="pacmun%20logo%20black.jpg"> <p style="float: right;"><a>Join Us!</a></p>
+        </div>
+        
+        community stuff bar from resources
+        <div id="communitybar">
+                <div class="dropdown titlethin">
+  
+<div class="dropdown titlethin">
+  <span><a href="Resources/services.html">Services</a></span>
+</div>
+
+<div class="dropdown titlethin">
+  <span><a href="http://www.munnorthwest.org/edumun/">EDUMUN</a></span>
+</div>
+        </div>
+            </div>
+            
+            
+            nav???!
+             <!--   <nav class="navbar navbar-default navbar-fixed-top shrink">
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="/">
+                    <img id="gif_logo" src="Icons/PACMUN LOGO v8.2.jpg" alt="Icons/PACMUN LOGO v8.2.jpg" height="100" width="100">
+                    <img id="shrink_logo" src="Icons/PACMUN LOGO v8.2.jpg" alt="Icons/PACMUN LOGO v8.2.jpg" width="60">
+                    <img id="mobile_logo" src="Icons/PACMUN LOGO v8.2.jpg" alt="Icons/PACMUN LOGO v8.2.jpg" width="60">
+                </a>
+            </div>
+            <div id="navbar">
+                <ul class="nav navbar-nav navbar-left hidden-xs hidden-sm">
+                </ul>
+                <ul class="nav navbar-nav primary-nav navbar-right hidden-xs hidden-sm">
+                    <li class="play_sound">
+                        <a class="" href="aboutpg.html">About Us</a>
+            
+                    </li>
+                    <li class="play_sound">
+                        <a class="" href="conference.html">Conference</a>
+       
+                    </li>
+                    <li class="play_sound">
+                        <a class="" href="committees.html">Committees</a>
+                   
+                    </li>
+                    <li class="play_sound">
+                        <a class="" href="registration.html">Registration</a>
+                    
+                    </li>
+                    <li class="play_sound">
+                        <a class="" href="resources.html">Resources</a>
+                        
+                        <ul><a class="" href="edumun.html">EDUMUN</a></ul>
+                     </li>
+                </ul>
+                
+            </div>
+        </div>
+    </nav> -->
+    
+    
+    schgedule table!!>?
+    
+    <!-- <table>
+        <tr><td class="oclock">7:00am</td><td class="event top points">Registration</td></tr>
+        <tr><td></td><td class="event middle points"></td></tr>
+        <tr><td class="oclock">8:00am</td> <td class="event bottom points">7:00am-8:00am</td></tr> 
+        <tr><td></td><td class="event top ceremonies">Opening Ceremonies</td></tr>
+        <tr><td class="oclock">9:00am</td> <td class="event bottom ceremonies">8:15am-9:15am</td></tr>
+        <tr><td></td></tr>
+        <tr><td class="oclock">10:00am</td> <td class="event middle"></td></tr>
+        <tr><td></td></tr>
+        <tr><td class="oclock">11:00am</td> <td class="event bottom"></td></tr>
+        <tr><td></td></tr>
+        <tr><td class="oclock">12:00pm</td> <td class=""></td></tr>
+        <tr><td></td></tr>
+        <tr><td class="oclock">1:00pm</td> <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">2:00pm</td> <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">3:00pm</td>  <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">4:00pm</td> <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">5:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">6:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">7:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">8:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">9:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">10:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">11:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">12:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr> <td>
+    <h5>Sunday // 11.20.16</h5> </td></tr>
+    <tr><td class="oclock">1:00am</td> <td class=""></td></tr><tr><td></td></tr>
+    <tr><td class="oclock">2:00am</td> <td class=""></td></tr><tr><td></td></tr>
+    <tr><td><h4>...</h4></td></tr>
+    <tr>
+        <td class="oclock">7:00am</td> <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">8:00am</td> <td class=""></td>
+     </tr> <tr><td></td></tr> <tr>
+        <td class="oclock">9:00am</td> <td class="event top"></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">10:00am</td> <td class="event middle"></td>
+    </tr><tr><td></td></tr> <tr>
+        <td class="oclock">11:00am</td> <td class="event bottom"></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">12:00pm</td> <td class=""></td>
+     </tr> <tr>
+        <td class="oclock">1:00pm</td> <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">2:00pm</td> <td class=""></td>
+     </tr><tr><td></td></tr> <tr>
+        <td class="oclock">3:00pm</td>  <td class=""></td>
+     </tr> <tr><td></td></tr><tr>
+        <td class="oclock">4:00pm</td> <td class=""></td>
+     </tr><tr><td></td></tr> <tr>
+        <td class="oclock">5:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">6:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">7:00pm</td> <td class=""></td>
+    </tr> <tr><td></td></tr><tr>
+        <td class="oclock">8:00pm</td> <td class=""></td>
+    </tr>
+            </table> -->
