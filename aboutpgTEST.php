@@ -51,7 +51,7 @@ PACMUN began as a student run conference in 2014. The idea was conceived by seve
 </div>
 
         </div>
-        <div style="margin-top: 0; margin-bottom: 0; padding-top: 0; padding-bottom: 0; margin: 5em;">
+        <div style="padding: 10em; padding-top: 0; padding-bottom: 0;">
 <div id="current_team">
 <h3 style="color:#1792A7;" > The 2017 Secretariat </h3>
 <table>
@@ -77,7 +77,7 @@ PACMUN began as a student run conference in 2014. The idea was conceived by seve
             <div class="">
                 <h2>MacKinley Gibbens</h2>
                 <h5>Secretary General</h5>
-                <p>MacKinley Gibbens is a senior at Bellarmine in Tacoma, WA. Besides being one of the few carnivores on secretariat, he has been involved with PACMUN since its inaugural session in 2014, as a delegate. He was the USG of delegate affairs for the 2015 conference, and served as the director general at the 2016 conference. He is on the leadership team of the Bellarmine MUN club, and is amazingly excited to see all of the delegates in November. When not running conferences, MacKinley can be found pretending to do homework, waiting in line at track meets, and playing the saxophone.</p>
+                <p>MacKinley Gibbens is a senior at Bellarmine in Tacoma, WA. Besides being one of the few carnivores on secretariat, he has been involved with PACMUN since its inaugural session in 2014, as a delegate. He was the USG of delegate affairs for the 2015 conference, and served as the director general at the 2016 conference. He is the president of the Bellarmine MUN club, and is amazingly excited to see all of the delegates in November. When not running conferences, MacKinley can be found pretending to do homework, waiting in line at track meets, and playing the saxophone.</p>
                 <h5>sg@pacificmun.com</h5>
             </div>
         </div>
@@ -159,7 +159,7 @@ PACMUN began as a student run conference in 2014. The idea was conceived by seve
             <div class ="">
                 <h2>Angelus McNally</h2>
                 <h5>USG of Technology</h5>
-                <p>Angelus, also often known as Angie, is delighted to continue her tenure as PACMUN’s official computer geek. She is a senior at Woodinville High School and vice-president of WHS MUN.  Besides attending and staffing conferences up and down the West Coast, she fills her days with photography, German culture, and singing with her choir family. Her hobbies include not eating meat, hiking, dancing badly but enthusiastically, and teaching her class of kindergarteners how to ski at Stevens Pass. In the future, she hopes to somehow combine biochemistry and computer science in some kind of “Black Mirror”-esque career and also travel into outer space.  As enchanted by the possibilities of global collaboration and citizenship as this secretariat is with watching Netflix, Angelus can’t wait to see all that the delegates of PACMUN 2017 can achieve at the conference.</p>
+                <p>Angelus, also often known as Angie, is delighted to continue her tenure as PACMUN’s official computer geek. She is a senior at Woodinville High School and a leader of WHS MUN.  Besides attending and staffing conferences up and down the West Coast, she fills her days with photography, German culture, and singing with her choir family. Her hobbies include not eating meat, hiking, dancing badly but enthusiastically, and teaching her class of kindergarteners how to ski at Stevens Pass. In the future, she hopes to somehow combine biochemistry and computer science in some kind of “Black Mirror”-esque career and also travel into outer space.  As enchanted by the possibilities of global collaboration and citizenship as this secretariat is with watching Netflix, Angelus can’t wait to see all that the delegates of PACMUN 2017 can achieve at the conference.</p>
                 <h5>webmaster@pacificmun.com</h5>
             </div>
         </div>

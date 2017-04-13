@@ -39,7 +39,7 @@
     <div class="backgroundcontainer">
         <div class="container" style="background-color:#FFF;color:#1792A7;padding:0px;">
             <h1>Conference</h1>
-            <h4> Saturday, November 19th- Sunday, November 20th</h4>
+            <h4> Saturday, November 18th- Sunday, November 19th</h4>
             <div class="confbar">
             <table id="confpages">
                 <tr>
