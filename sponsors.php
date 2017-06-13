@@ -151,7 +151,7 @@
     <div id="mainbenefits">
             <h4 class="titlethin sbenefits">Sponsorship Benefits</h4>
                 
-            <h4>Platinum ($4000+)</h4>
+            <h4>Platinum ($5000+)</h4>
                         <ul style="list-style-type: disc">
 <li>Prominent Logo space on Promotional Media produced by the conference (i.e. videos, photos, etc.)</li>
 <li>Three months of prominent promotion on all social media before, during, and after the conference</li>
@@ -166,7 +166,7 @@
 <li>All aforementioned lower tier benefits</li>
         </ul>
                 
-            <h4>Gold ($2000-3999)</h4>
+            <h4>Gold ($2500-4999)</h4>
                         <ul style="list-style-type: disc">
 <li>Logo space on Promotional Media produced by the conference (i.e. videos, photos, etc.)</li>
 <li>One month of secondary promotion on all social media before and during the conference</li>
@@ -179,7 +179,7 @@
 <li>All aforementioned lower tier benefits</li>
         </ul>
             
-            <h4>Silver ($1000-1999)</h4>
+            <h4>Silver ($1000-2499)</h4>
                         <ul style="list-style-type: disc">
 <li>Secondary promotion on some social media platforms during the conference</li>
 <li>Half Page Corporate Description in Delegate Handbook</li>

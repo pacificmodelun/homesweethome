@@ -46,20 +46,19 @@
 
     <div class="backgroundcontainer">
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfOgM9y8QJvw3fyZNQJW42XFEmO6I_1OnfbhAvfGaYHE6n7iw/viewform"><img class="committeehead" src="Photos/staffapp17.jpg" style="margin-top:2em; width:100%; height: auto;"></a> 
+<img class="committeehead" src="Photos/pacmun2017dates.png" style="margin-top:2em; width:100%; height: auto;">
 
 <!--  <iframe class="" style="margin-top: 4em; height: 80vh;" width="100%" src="https://www.youtube.com/embed/ti0k_jXukas?autoplay=1&amp;rel=0" frameborder="0" allowfullscreen></iframe> -->
 
         
-        <div class="nospace" style="width: 100%; overflow: hidden; white-space: nowrap;">
+        <!-- <div class="nospace" style="width: 100%; overflow: hidden; white-space: nowrap;">
     
     <div class="homecontainer"><a href="registration.php"><img class="nospace homepics" style="" src="Photos/FRIDAYWORKSHOPS.png"></a></div>
     <div class="homecontainer"><a href="resources.php"><img class="nospace homepics" style="" src="Photos/dance_homepage.png"></a></div>
     <div class="homecontainer"><a href="pageprogram.php"><img class="nospace homepics" style="" src="Photos/pagehome.png"></a></div>
     <div class="homecontainer"><a href="registration.php"><img class="nospace homepics" style="" src="Photos/registrationHome.png"></a></div>
     
-    
-        </div>
+        </div> -->
         
         <div class="container" style="background-color:#FFF;color:#1792A7">
             <h5 style="font-size: 1.5em;">If you encounter any errors while browsing our site, technical or otherwise, please notify <a href="mailto:webmaster@pacificmun.com" target="_top">webmaster@pacificmun.com</a></h5>

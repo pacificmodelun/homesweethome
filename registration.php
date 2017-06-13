@@ -43,10 +43,10 @@
 				<h1>Registration</h1>
 				
 				<div>
-                    <p>Thank you for your interest in PACMUN 2017! Registration will open in August.  This page will be updated with PACMUN 2017 details prior to the opening of registration. Until then, refer to this page for information on 2016's registration process. </p>
+                    <p>Thank you for your interest in PACMUN 2017! Registration will open in September.  While conference pricing is up to date, this page will be updated with further PACMUN 2017 details prior to the opening of registration. Until then, refer to this page for information on 2016's registration process. </p>
                     <p>To register for the conference, the process must be initiated by an advisor or head delegate by filling out the <a target="_blank" href="https://form.jotform.com/61771799502162">delegation registration</a>. After the <a target="_blank" href="https://form.jotform.com/61771799502162">delegation registration</a>, the advisor/head delegate will receive an email notifying them that their delegates can now register. All delegates must register individually by filling out the <a target="_blank" href="https://form.jotform.com/61771660183154">delegate registration</a> on our website. </p>
                     
-<p>During <a target="_blank" href="https://form.jotform.com/61771799502162">delegation registration</a>, the advisor/head delegate will be prompted to select a “delegate registration deadline” on the “Select your delegate registration deadline” page. This deadline is the date in which all delegate registrations must be completed and submitted to PACMUN. The delegation will then receive an invoice within 24 hours of the selected date and they must provide payment within 10 days to retain the spots that their delegates have received. The deadline that is selected will determine the amount charged per delegate. If the deadline that is selected is on or before September 16, the delegation will be charged $100 per delegate; if the deadline that is selected is on or before November 4th, the delegation will be charged $105 per delegate; if the deadline that is selected after November 4th, the delegation will be charged $110 per delegate.</p>
+<p>During <a target="_blank" href="https://form.jotform.com/61771799502162">delegation registration</a>, the advisor/head delegate will be prompted to select a “delegate registration deadline” on the “Select your delegate registration deadline” page. This deadline is the date in which all delegate registrations must be completed and submitted to PACMUN. The delegation will then receive an invoice within 24 hours of the selected date and they must provide payment within 10 days to retain the spots that their delegates have received. The deadline that is selected will determine the amount charged per delegate. If the deadline that is selected is on or before September 16, the delegation will be charged $115 per delegate; if the deadline that is selected is on or before November 4th, the delegation will be charged $120 per delegate; if the deadline that is selected after November 4th, the delegation will be charged $125 per delegate.</p>
 
 <p>Please view the step-by-step registration for an in-depth look at registering for PACMUN. We hope to see you at the conference!</p> </div>
 
@@ -68,11 +68,11 @@ On the form’s “Payment Method” page, advisors/head delegates will select t
 <p>On the form’s “Select Your Delegate Registration Deadline” page, advisors/head delegates will select a deadline for their student’s Delegate Registration Form submissions.The deadline selected will determine the delegate registration fee. </p><br>
                         
 <ul style="list-style-type: disc;">
-<li><p>If the deadline selected falls within the Early Registration time frame (8/29-9/16), the delegate registration fee will be $100.</p></li>
+<li><p>If the deadline selected falls within the Early Registration time frame (9/1-9/15), the delegate registration fee will be $115.</p></li>
     <br>
-<li><p>If the deadline selected falls within the Regular Registration time frame (9/17-11/4), the fee will be $105.</p></li>
+<li><p>If the deadline selected falls within the Regular Registration time frame (9/16-11/4), the fee will be $120.</p></li>
     <br>
-<li><p>If the deadline selected falls within the Late Registration time frame (11/5-Conference Capacity), the fee will be $110.</p></li>
+<li><p>If the deadline selected falls within the Late Registration time frame (11/5-Conference Capacity), the fee will be $125.</p></li>
     <br>
 </ul>
                         
@@ -158,27 +158,29 @@ The delegate will be placed in a room with 3 other individual delegates, or an u
             
                     <button class="accordion titlethin" style="margin-top: 1em;">Pricing</button>
                     <div class="panel">
+        <p>All rooms have a maximum occupancy of 4 people.</p>            
         <div class="center" style="width: 80%">
+        
 <table style="margin-left: auto; margin-right: auto;">
 <tr>
-<td width=""><p>Early Registration: August 29th &#8211; September 16</p></td>
-<td width=""><p>$100 (per delegate)</p></td>
+<td width=""><p>Early Registration: September 1 &#8211; September 15</p></td>
+<td width=""><p>$115 (per delegate)</p></td>
 </tr>
 <tr>
-<td width=""><p>Regular Registration: September 17 &#8211; November 4</p></td>
-<td width=""><p>$105 (per delegate)</p></td>
+<td width=""><p>Regular Registration: September 16 &#8211; November 4</p></td>
+<td width=""><p>$120 (per delegate)</p></td>
 </tr>
 <tr>
 <td width=""><p>Late Registration: November 5 &#8211; Conference Capacity</p></td>
-<td width=""><p>$110 (per delegate)</p></td>
+<td width=""><p>$125 (per delegate)</p></td>
 </tr>
 <tr>
-<td width=""><p>Additional Room Nights</p></td>
-<td width=""><p>$50 (per delegate)</p></td>
+    <td width=""><p>Additional Room Nights</p></td>
+    <td width=""><p>$215 (per room)</p></td>
 </tr>
 <tr>
-<td width=""><p>Delegation Fee</p></td>
-<td width=""><p>$200 (per delegation)</p></td>
+    <td width=""><p>Advisor/Chaperone Rooms</p></td>
+    <td width=""><p>$215 (per room)</p></td>
 </tr>
 </table>
         </div>
@@ -196,10 +198,10 @@ Within 72 hours, the DA team will review the financial aid application and notif
                     
                     <button class="accordion titlethin" style="">Room Requests</button>
                     <div class="panel">
-<p>Except for special circumstances, all delegates will be housed in single-sex, quadruple rooms at the Seattle Westin. Please note that the registration fee covers only Saturday night; should delegates need to spend Friday night at the Westin Seattle, an additional $50 will be added to their delegate fee. </p>
+<p>Except for special circumstances, all delegates will be housed in single-sex, quadruple rooms at the Seattle Westin. Please note that the registration fee covers only Saturday night; should delegates need to spend Friday night at the Westin Seattle, an additional $215 per room will be added to their delegation's fees. </p>
 <p>Within 24 hours of a Delegation Registration submission, the DA team will share a Rooming Arrangement Google spreadsheet to the advisor/head delegate. Advisors must notify the Delegate Affairs team in an e-mail that they have completed the Rooming Assignment Google spreadsheet before their self selected delegate registration deadline.</p>
 
-<p>If the delegation is not divisible by four, delegates will have the option to upgrade to a triple room for an added price, or combine with members of another school.<p/>
+<p>If the delegation is not divisible by four, delegates will have the option to upgrade to a triple room for no added price, or combine with members of another delegation.<p/>
 
 <p>*For simplicity, all rooming arrangements and requests should be made through advisors/head delegates.</p>
                     </div>  

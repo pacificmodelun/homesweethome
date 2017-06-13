@@ -71,9 +71,9 @@ include 'sliders.php';
             <h2>Rooming Policy</h2>
             <p>All delegate rooms will be single-sex, quad occupancy rooms. For triple rooms that result from an odd number of delegates, no extra fee will be levied. </p>
             
-            <p>For single and double occupancy delegate rooms, we ask that delegations either pay a fee of $75 or $150, respectively, or that they combine with members from another delegation.</p>
+            <p>For single and double occupancy delegate rooms, we ask that delegations either pay a fee of $150 or $75, respectively, or that they combine with members from another delegation.</p>
 
-            <p>Advisor rooms will be single occupancy, and all chaperone rooms will be double occupancy. If chaperones are staying in the designated advisor's hotel room, there will be no extra fee for the chaperones staying in the room. </p>
+            <p>Advisor and chaperone rooms are $215 per room, per night, regardless of occupancy. If chaperones are staying in the designated advisor's hotel room, there will be no extra fee for the chaperones staying in the room. </p>
 
             <em style="color: white"><p>NOTE: It is PACMUN policy that delegates and advisors, as well as chaperones, spend the night at the venue. This is because of our midnight crisis, and we want to give delegates the full Model United Nations experience. This policy is very common among other conferences. Any questions can be directed to <a href="mailto:secretariat@pacificmun.com" target="_top" style="color: white;">secretariat@pacificmun.com</a></p></em>
         </div>
